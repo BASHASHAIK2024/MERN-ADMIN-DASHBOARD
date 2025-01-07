@@ -1,5 +1,4 @@
 # MERN-ADMIN-DASHBOARD
-zs
-sjh
+/
 
 
